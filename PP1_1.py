@@ -1,5 +1,4 @@
 def q1():
-  #Write Assignment code here
   print("Hello World")
 
 def q2():
@@ -16,3 +15,8 @@ def q3():
 
 def q4():
   #Write Assignment code here
+
+q1()
+q2()
+q3()
+q4()
